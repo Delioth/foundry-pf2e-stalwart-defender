@@ -3,7 +3,7 @@
   "title": "PF2e Stalwart Defender",
   "description": "A module to implement the Stalwart Defender archetype.",
   "author": "Delioth",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "compatibleCoreVersion": "9",
   "minimumCoreVersion": "9",
   "packs": [
@@ -35,15 +35,6 @@
       "private": false
     }
   ],
-  "flags": {
-    "pf2e-stalwart-defender": {
-      "pf2e-homebrew": {
-        "featTraits": {
-          "stalwart-defender": "Stalwart Defender"
-        }
-      }
-    }
-  },
   "system": [
     "pf2e"
   ],
