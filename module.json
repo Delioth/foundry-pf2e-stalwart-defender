@@ -1,0 +1,54 @@
+{
+  "name": "pf2e-stalwart-defender",
+  "title": "PF2e Stalwart Defender",
+  "description": "A module to implement the Stalwart Defender archetype.",
+  "author": "Delioth",
+  "version": "1.0.0",
+  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "9",
+  "packs": [
+    {
+      "label": "Stalwart Defender - Actions",
+      "type": "Item",
+      "name": "stalwart-defender-actions",
+      "path": "./packs/stalwart-defender-actions.db",
+      "system": "pf2e",
+      "package": "pf2e-stalwart-defender",
+      "private": false
+    },
+    {
+      "label": "Stalwart Defender - Feats",
+      "type": "Item",
+      "name": "stalwart-defender-feats",
+      "path": "./packs/stalwart-defender-feats.db",
+      "system": "pf2e",
+      "package": "pf2e-stalwart-defender",
+      "private": false
+    },
+    {
+      "label": "Stalwart Defender - Effects",
+      "type": "Item",
+      "name": "stalwart-defender-effects",
+      "path": "./packs/stalwart-defender-effects.db",
+      "system": "pf2e",
+      "package": "pf2e-stalwart-defender",
+      "private": false
+    }
+  ],
+  "flags": {
+    "pf2e-stalwart-defender": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "stalwart-defender": "Stalwart Defender"
+        }
+      }
+    }
+  },
+  "system": [
+    "pf2e"
+  ],
+  "url": "https://github.com/Delioth/foundry-pf2e-stalwart-defender",
+  "manifest": "https://raw.githubusercontent.com/Delioth/foundry-pf2e-stalwart-defender/main/module.json",
+  "download": "https://github.com/Delioth/foundry-pf2e-stalwart-defender/archive/refs/heads/main.zip",
+  "minimumSystemVersion": "3.8"
+}
