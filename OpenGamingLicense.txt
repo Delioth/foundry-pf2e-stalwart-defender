@@ -106,6 +106,7 @@ sublicenses shall survive the termination of this License.
 14. Reformation: If any provision of this License is held to be
 unenforceable, such provision shall be reformed only to the
 extent necessary to make it enforceable.
+extent necessary to make it enforceable.
 15. COPYRIGHT NOTICE
 Open Game License v 1.0a © 2000, Wizards of the Coast,
 Inc.
@@ -116,8 +117,9 @@ Arneson.
 Pathfinder Core Rulebook (Second Edition) © 2019, Paizo
 Inc.; Authors: Logan Bonner, Jason Bulmahn, Stephen
 Radney-MacFarland, and Mark Seifter.
-Character Classes Ironclad © 2022, Matthew "comatthew6"
-Fu; Authors: Matthew "comatthew6" Fu
+Stalwart Defender Archetype© 2022, Eldritch Osiris Games
+LLC; Authors: Dylan Wokeck
+
 Pathfinder and associated marks and logos are trademarks of
 Paizo Inc., and are used under license. See paizo.com/
 pathfinder to learn more about Pathfinder.
@@ -150,5 +152,5 @@ Game License version 1.0a, Section 1(d). No portion of this
 work other than the material designated as Open Game
 Content may be reproduced in any form without written
 permission.
-Character Classes Ironclad © 2022, Matthew "comatthew6"
-Fu. All Rights Reserved.
+Stalwart Defender Archetype © 2022, Eldritch Osiris
+Games LLC. All Rights Reserved.

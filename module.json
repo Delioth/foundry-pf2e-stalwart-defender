@@ -3,7 +3,7 @@
   "title": "PF2e Stalwart Defender",
   "description": "A module to implement the Stalwart Defender archetype.",
   "author": "Delioth",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibleCoreVersion": "9",
   "minimumCoreVersion": "9",
   "packs": [
